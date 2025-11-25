@@ -26,8 +26,6 @@
 - 3.整合包自带虚拟环境python，git，cuda，xFormers，PyTorch，transformers，无需下载依赖任何文件
 - 4.每次更新整合包版本只需迁移根目录下旧整合包moders与extensions目录即可，其余内容全部删除
 - <img width="869" height="890" alt="234654365" src="https://github.com/user-attachments/assets/82000a00-fb63-4581-9dbc-a442609dc605" />
-
-- <img width="1394" height="650" alt="354546" src="https://github.com/user-attachments/assets/ebd7c551-6ad9-4a34-819d-33b197a5055f" />
   
 
 | 类型 | 目录路径 |
