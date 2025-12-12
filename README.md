@@ -54,6 +54,11 @@
 
 ## 更新内容
 2025/12/8
+- flux系列模型全面支持nuachaku量化加速，如Kontext，flux-krea，flux
+- 4.9整合包安装了sageattention与Triton优化加速
+- sageattention和Triton优化，需要Windows编译软件进行破译，需要安装Windows SDK，Visual Studio
+
+2025/12/8
 - 4.8整合包删除过时无用的插件，精简ui界面
 - 部署Z-Image-Turbo模型
   
