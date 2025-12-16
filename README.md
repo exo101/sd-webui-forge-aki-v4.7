@@ -43,19 +43,32 @@
 - 5.所有插件与整合包都在百度网盘当中，qq群内交流ai技术1054090769  
 
 
-| 类型 | 目录路径 |
-|---------|---------|
-| 主模型 | `sd-webui-forge-aki-v4.5\models\Stable-diffusion` |
-| LoRA模型 | `sd-webui-forge-aki-v4.5\models\Lora` |
-| VAE模型 | `sd-webui-forge-aki-v4.5\models\VAE` |
-| 高清放大模型 | `sd-webui-forge-aki-v4.5\models\RealESRGAN` |
-| 高清放大模型 |`sd-webui-forge-aki-v4.5\models\ESRGAN` |
-| ControlNet模型 | `sd-webui-forge-aki-v4.5\models\ControlNet` |
-| ControlNet预处理器 | `sd-webui-forge-aki-v4.5\models\ControlNetPreprocessor` |
-| 插件目录 | `sd-webui-forge-aki-v4.5\extensions` |
-| 图像输出目录 | `sd-webui-forge-aki-v4.5\outputs` |
-| 整合包解压软件|`7z2501-x64.exe` |
-| 默认安装至C盘|`启动器运行依赖-dotnet-6.0.11.exe` |
+| 整合包目录 | 模型目录 | 子目录 |说明 |
+|---------------------|--------|-----------|-----------|
+| `sd-webui-forge-aki`|`models`|`adetailer`| 修脸插件模型 |
+| `sd-webui-forge-aki`|`models`|`cleaner`| 图像清理模型目录 |
+| `sd-webui-forge-aki`|`models`|`RealESRGAN`| 高清放大算法目录 |
+| `sd-webui-forge-aki`|`models`|`ESRGAN`| 高清放大算法目录 |
+| `sd-webui-forge-aki`|`models`|`lora`| LoRA微调模型目录 |
+| `sd-webui-forge-aki`|`models`|`LatentSync`| 数字人视频生成模型目录 |
+| `sd-webui-forge-aki`|`models`|`qwen-image`| qwen模型与组件总目录 |
+| `sd-webui-forge-aki`|`models`|`index-tts2`| Index-TTS语音合成模型目录 |
+| `sd-webui-forge-aki`|`models`|`FLUX.1-Kontext-dev`| nunchuku量化fluX系列模型目录 |
+| `sd-webui-forge-aki`|`models`|`ControlNet`| ControlNet控制模型目录 |
+| `sd-webui-forge-aki`|`models`|`ControlNetPreprocessor`| ControlNet预处理器目录 |
+| `sd-webui-forge-aki`|`models`|`insightface`| 换脸插件模型 |
+| `sd-webui-forge-aki`|`models`|`faceswaplab`| 换脸插件模型 |
+| `sd-webui-forge-aki`|`models`|`GFPGAN`| 换脸插件放大模型 |
+| `sd-webui-forge-aki`|`models`|`Codeformer`| 换脸插件放大模型 |
+| `sd-webui-forge-aki`|`models`|`roop`| 换脸插件模型目录 |
+| `sd-webui-forge-aki`|`models`|`sam`| 图像分割模型目录 |
+| `sd-webui-forge-aki`|`models`|`Stable-diffusion`| 传统flux.XL.1.5模型目录 |
+| `sd-webui-forge-aki`|`models`|`Tongyi-MAl`| Z-Image模型目录 |
+| `sd-webui-forge-aki`|`models`|`vae`| 图像编解码模型 |
+| `sd-webui-forge-aki`|`extensions` |插件目录
+| `sd-webui-forge-aki-v4.5`|`outputs` |图像输出目录 |
+| ` 7z2501-x64.exe` |整合包解压软件|
+| `启动器运行依赖-dotnet-6.0.11.exe`|默认安装至C盘|
 
 
 | 类型 | 目录路径 |
