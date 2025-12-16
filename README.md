@@ -67,13 +67,10 @@
 | `sd-webui-forge-aki`|`models`|`vae`| 图像编解码模型 |
 
 
-| 整合包目录 |插件路径 |
 | `sd-webui-forge-aki`|`extensions` |插件目录|
+
 | `sd-webui-forge-aki`|`outputs` |图像输出目录|
-| `sd-webui-forge-aki`|`extensions\sd-ppp-1.5.4` |
-| `sd-webui-forge-aki`|`extensions\Auto-Photoshop-StableDiffusion-Plugin` |ps ai插件| 
-| `sd-webui-forge-aki`|`extensions\sd-webui-reactor` |换脸插件 |
-| `sd-webui-forge-aki`|`extensions\sd-webui-roop` |换脸插件 |
+
 | `sd-webui-forge-aki`|`extensions\sd-webui-MultiModal` | 多模态插件 |
 
 
