@@ -65,20 +65,18 @@
 | `sd-webui-forge-aki`|`models`|`Stable-diffusion`| 传统flux.XL.1.5模型目录 |
 | `sd-webui-forge-aki`|`models`|`Tongyi-MAl`| Z-Image模型目录 |
 | `sd-webui-forge-aki`|`models`|`vae`| 图像编解码模型 |
-| `sd-webui-forge-aki`|`extensions` |插件目录
-| `sd-webui-forge-aki-v4.5`|`outputs` |图像输出目录 |
-| ` 7z2501-x64.exe` |整合包解压软件|
-| `启动器运行依赖-dotnet-6.0.11.exe`|默认安装至C盘|
 
 
-| 类型 | 目录路径 |
+| 整合包目录 |插件路径 |
 |---------|---------|
-| ps ai插件 | `sd-webui-forge-aki-v4.7\extensions\sd-ppp-1.5.4` |
-| ps ai插件 | `sd-webui-forge-aki-v4.7\extensions\Auto-Photoshop-StableDiffusion-Plugin` |
-| 换脸插件 | `sd-webui-forge-aki-v4.7\extensions\sd-webui-reactor` |
-| 换脸插件 | `sd-webui-forge-aki-v4.7\extensions\sd-webui-roop` |
-| 多模态插件 | `sd-webui-forge-aki-v4.7\extensions\sd-webui-MultiModal` |
-| 无边浏览图像插件 | `sd-webui-forge-aki-v4.7\extensions\sd-webui-infinite-image-browsing` |
+| `sd-webui-forge-aki`|`extensions` |插件目录|
+| `sd-webui-forge-aki`|`outputs` |图像输出目录|
+| `sd-webui-forge-aki`|`extensions\sd-ppp-1.5.4` |
+| `sd-webui-forge-aki`|`extensions\Auto-Photoshop-StableDiffusion-Plugin` |ps ai插件| 
+| `sd-webui-forge-aki`|`extensions\sd-webui-reactor` |换脸插件 |
+| `sd-webui-forge-aki`|`extensions\sd-webui-roop` |换脸插件 |
+| `sd-webui-forge-aki`|`extensions\sd-webui-MultiModal` | 多模态插件 |
+
 
 ## 更新内容
 2025/12/12
