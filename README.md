@@ -7,7 +7,7 @@
 |`nunchaku`| `qwen-image-edit2509`|`qwen-image`|`qwen-image-ControlNet`|`qwen lora` |
 |`qwen3` |`qwen3VL`|`qwen2.5VL`| `Ollama`|`llama3.2-vision`|
 |`LatentSync` |`Segment Anything`|`Cleaner`|`Index-TTS2` |
-|`FLUX.1-Kontext` | `FLUX` |`不支持FLUX ControlNet` | `XL` | `XL ControlNet` |`sd15 ControlNet`|`sd15`|
+|`FLUX.1-Kontext` | `FLUX` |`FLUX ControlNet` | `XL` | `XL ControlNet` |`sd15 ControlNet`|`sd15`|
 
 ## 系统要求
 
